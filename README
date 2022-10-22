@@ -9,7 +9,7 @@ To Change, delete the `static` directory and run `ng new static --style=` with o
 ## Material
 If you would like to use Angular Material in your application, I have build a skeleton with all the necessary modules to include Material, animations, and to get your app running quickly.
 
-Find it here: `https://github.com/hawzie197/angular5-material-skeleton`
+Find it here: `https://github.com/GurdianKnight/BlueprinceCloud`
 
 Simply delete the static directory inside /app, clone the repo above, rename it to `static` and drop inside /app.
 `angular5-material-skeleton` has a current preset of `scss`
